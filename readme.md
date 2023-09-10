@@ -1,3 +1,5 @@
+#### description
+该脚本可将国科大研究生课表导入到手机日历    
 #### note
 
 修改`https://github.com/guohaodong27/ucas_schedule.git`  
